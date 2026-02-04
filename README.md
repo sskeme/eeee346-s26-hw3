@@ -28,7 +28,7 @@ g++ -o main *.cpp
 
 2. Enter the number of rows of Matrix A, the number of columns of Matrix A, the element values of Matrix A, the number of rows of Matrix B, the number of columns of Matrix B, and the element values of Matrix B in order. Here is an example.
 
-![eeee346-s25-hw3-figure](https://github.com/user-attachments/assets/b9a00371-43ea-407b-b984-a8d280c38570)
+<img width="1007" height="154" alt="mat_mul_ex" src="https://github.com/user-attachments/assets/6f6f0115-a8a1-4a89-ac3f-9e4e26b0f418" />
 
  * Input
  ```
